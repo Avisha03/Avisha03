@@ -4,6 +4,8 @@ I’m Avisha Srivastava, a passionate Data Scientist & ML Enthusiast 🚀. I lov
 
 # 🔍 What I’m working on:
 
+🤖 Facial Issue Detection & Diet Recommendation – Real-time skin issue detection using CNN & MobileNetV2, with personalized skincare & diet suggestions.
+
 🏡 Airbnb Data Analysis (EDA) – Exploring trends, pricing strategies, and customer preferences with Python & Pandas.
 
 🔤 Language Detection Model – Building a text classification model to detect languages with NLP techniques.
